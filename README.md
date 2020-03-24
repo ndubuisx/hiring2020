@@ -21,6 +21,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Urban Outfitters|Cancelled||
 |WillowTree|Cancelled||
 |Yelp|Cancelled||
+|Seattle Genetics, Inc.|Cancelled||
 ||||
 ||||
 ||||
