@@ -40,7 +40,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Facebook|Not Cancelled||
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
-|Google|Not Cancelled|UX Internships cancelled|
+|Google|Not Cancelled|UX Internships cancelled. Remote Internship.|
 |IBM|Not Cancelled|Won't be cancelling. All internships will be remote.|
 |IMC Trading|Not Cancelled|Potentially remote.|
 |Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
